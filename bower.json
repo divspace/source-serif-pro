@@ -1,0 +1,26 @@
+{
+  "name": "source-serif-pro",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/divspace/source-serif-pro",
+  "description": "Bower package for the Source Serif Pro web font",
+  "authors": [
+    "Kyle Anderson <kyle@divspace.com>"
+  ],
+  "keywords": [
+    "font",
+    "fonts",
+    "serif",
+    "source",
+    "pro",
+    "source-serif-pro"
+  ],
+  "main": [
+    "scss/source-serif-pro.scss",
+    "css/source-serif-pro.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
